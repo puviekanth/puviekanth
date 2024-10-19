@@ -15,7 +15,8 @@
 
 - 🔭 &nbsp; I’m currently Studying in **SLIIT CITY UNI, Undergraduate** (university of Bedfordshire)
 - 🌱 &nbsp; I’m currently learning **React.js/TypeScript and ML/Ai**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/chamikamunithunga?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/puviekanth
+?tab=repositories)
 - 📩 &nbsp; How to reach me chamikamunithunga140@gmail.com
 - 👨‍💻 &nbsp; Website for more Details https://chamikam.netlify.app
 -    &nbsp; catch me on Daily.dev : https://app.daily.dev/hdchamikamunithunga 
@@ -28,7 +29,8 @@
   <img src="c.png"/>
   <br>
   <h1 align="center">
-    <a href="https://chamikamunithunga.github.io/Chamika.M/" target="_blank" style="text-decoration: none; color: inherit;">CLICK ME UP</a>
+    <a href="https://puviekanth
+.github.io/Chamika.M/" target="_blank" style="text-decoration: none; color: inherit;">CLICK ME UP</a>
 </h1>
 
 
@@ -91,21 +93,24 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puviekanth
+&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
 
 
 
-![  chamikamunithunga's Stats](https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
+![  puviekanth
+'s Stats](https://github-readme-stats.vercel.app/api?username=puviekanth
+&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
 
 
-![](https://github-contributor-stats.vercel.app/api?username=chamikamunithunga&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=puviekanth&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
 
-<a href="https://stats.hyochan.dev/en/stats/chamikamunithunga"><img src="https://stats.hyochan.dev/api/github-stats?login=chamikamunithunga" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/puviekantha"><img src="https://stats.hyochan.dev/api/github-stats?login=chamikamunithunga" width="600" /></a>
 
 
-![Top Langs](https://streak-stats.demolab.com?user=chamikamunithunga&theme=highcontrast&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamikamunithunga&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamikamunithunga&theme=github_dark)
+![Top Langs](https://streak-stats.demolab.com?user=puviekanth&theme=highcontrast&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puviekanth&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=puviekantha&theme=github_dark)
