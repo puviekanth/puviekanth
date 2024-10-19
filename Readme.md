@@ -86,14 +86,11 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puviekanth
-&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puviekanth&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
 
 
 
-![  puviekanth
-'s Stats](https://github-readme-stats.vercel.app/api?username=puviekanth
-&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
+![  puviekanth's Stats](https://github-readme-stats.vercel.app/api?username=puviekanth&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=puviekanth&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -101,7 +98,7 @@
 
 
 
-<a href="https://stats.hyochan.dev/en/stats/puviekantha"><img src="https://stats.hyochan.dev/api/github-stats?login=chamikamunithunga" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/puviekantha"><img src="https://stats.hyochan.dev/api/github-stats?login=puviekanth" width="600" /></a>
 
 
 ![Top Langs](https://streak-stats.demolab.com?user=puviekanth&theme=highcontrast&hide_border=true)
