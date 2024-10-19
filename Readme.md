@@ -24,14 +24,7 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=puviekanth&label=Profile%20Views&color=2&pretty=false" />
 </a>
-<br/>
-<br>
-  <img src="c.png"/>
-  <br>
-  <h1 align="center">
-    <a href="https://puviekanth
-.github.io/Chamika.M/" target="_blank" style="text-decoration: none; color: inherit;">CLICK ME UP</a>
-</h1>
+
 
 
 <img src="lt.png"/>
