@@ -18,9 +18,8 @@
 - 🌱 &nbsp; I’m currently learning **React.js/TypeScript and ML/Ai**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/puviekanth
 ?tab=repositories)
-- 📩 &nbsp; How to reach me chamikamunithunga140@gmail.com
-- 👨‍💻 &nbsp; Website for more Details https://chamikam.netlify.app
--    &nbsp; catch me on Daily.dev : https://app.daily.dev/hdchamikamunithunga 
+- 📩 &nbsp; How to reach me puvie9edx@gmail.com
+ 
   
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=puviekanth&label=Profile%20Views&color=2&pretty=false" />
@@ -28,20 +27,9 @@
 
 
 
-<img src="lt.png"/>
-<br>
-
-  
-
-  
+<p align="left"> <a href="https://github.com/puviekanth?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=puviekanth" alt="puviekanth" /></a> </p>
 
 
-
-
-
-<p align="left"> <a href="https://github.com/chamikamunithunga?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=chamikamunithunga" alt="chamikamunithunga" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
@@ -50,12 +38,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/chamika-munithunga-74801a2b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamika munithunga" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/25577170/h-d-c-s-munithunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="h.d.c.s munithunga" height="30" width="40" /></a>
-  
-  <a href="https://www.behance.net/chamikamunithu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chamika munithunga" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/chamikamunithun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chamikamunithun1" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/eos_chakiya__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamika munithunga" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,7 +54,7 @@
 
 
 
-                Chukz_space : Travel is ALL I NEED
+                puviekanth : Travel is ALL I NEED
                             : Travel whole world with step count
                             : perform all the time......
                             : Loading........
